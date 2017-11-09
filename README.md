@@ -8,7 +8,7 @@
 
 ## Pull image
 
-    docker pull harshjv/testrpc
+    docker pull daragao/testrpc
 
 
 ## Usage
